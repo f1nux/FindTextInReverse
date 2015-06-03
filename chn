@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+git config --global user.name "finux"
+git config --global user.email "finux2500@hotmail.com"
+
+git config --global --list
